@@ -26,7 +26,10 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guideline One (URL):
+https://material.io/design/iconography/system-icons.html
+
 * Describe how you implemented that guideline in your sketch:
+Added depicted phone icon beside Member Services number on page
 
 * HCI Guideline Two (URL):
 * Describe how you implemented that guideline in your sketch:
